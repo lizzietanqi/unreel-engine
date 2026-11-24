@@ -1,0 +1,26 @@
+# Your keys. Never share these.
+/.env
+/cookies.txt
+
+# Your own stuff. It lives on your computer only, so pulling app updates never clashes with it.
+# (The samples you start with come from the starter folder on the first run.)
+/transcripts/
+/thumbs/
+/studies/
+/breakdowns/
+/insights/
+/analytics/
+/history.csv
+/context.md
+/angles.json
+/pillars.json
+/cards.json
+/.seeded
+*.tmp
+
+# Python
+.venv/
+__pycache__/
+
+# Mac
+.DS_Store

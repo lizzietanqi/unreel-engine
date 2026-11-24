@@ -1,0 +1,248 @@
+{
+ "v": 6,
+ "file": "2026-10-28_144801_DdrKmIhxyWA.txt",
+ "lines": [
+  "One million dollars on the line, if your friend was tapping the rhythm of happy birthday, could you guess correctly that it was happy birthday?",
+  "Seems like a pretty obvious yes, right?",
+  "This was actually a Stanford study in 1990, and only 2.5% of people got it right.",
+  "The people tapping could hear the melody in their head, and it seemed so obvious, but the listeners just heard random taps.",
+  "This is known as the Curse of Knowledge, and it explains why experts make such bad teachers, because they skip steps that seem obvious to them, but aren't obvious to anyone else.",
+  "And they're simply unable to see the topic from the perspective of the beginner, which is why beginners have such a huge advantage that nobody talks about.",
+  "They have a fresh perspective, and the ability to see the broader picture, because it's not the expert in one field that's most creative, but the polymath that's acquired the ability to learn, and can draw from multiple sources of inspiration."
+ ],
+ "spine": {
+  "big_idea": "Experts can't see what's obvious to beginners, so beginners hold a hidden advantage experts lack.",
+  "before": "Experts know best, and beginners are behind",
+  "after": "Being a beginner is actually an advantage",
+  "viewer": "Beginners and learners who feel behind experts",
+  "format": "question → obvious guess → surprising study result → named idea → reframe → bigger lesson",
+  "hook_type": "question",
+  "hook_promise": "A guessing game you'd expect to win, with a surprising answer",
+  "hook_paid": 3,
+  "ask": "",
+  "why": [
+   "The million dollar guess makes you commit to an answer before the twist",
+   "The 2.5% stat breaks the easy yes you just gave",
+   "The tapping study makes an abstract bias easy to picture, then it turns into a beginner advantage"
+  ]
+ },
+ "points": [
+  {
+   "start": 5,
+   "end": 6,
+   "summary": "Expertise blinds you to what beginners need, so beginners hold a hidden advantage",
+   "main": true,
+   "kind": "reframe",
+   "proof": "Stanford 1990 tapping study, 2.5% guessed right (lines 1-4)",
+   "n": 1
+  },
+  {
+   "start": 5,
+   "end": 5,
+   "summary": "Experts skip steps that feel obvious to them, so they teach badly",
+   "main": false,
+   "kind": "cause",
+   "proof": "tapping study: tappers heard a melody, listeners heard random taps (lines 3-4)",
+   "n": 2
+  },
+  {
+   "start": 6,
+   "end": 6,
+   "summary": "Experts cannot see their topic from a beginner's point of view",
+   "main": false,
+   "kind": "problem",
+   "proof": "",
+   "n": 3
+  },
+  {
+   "start": 7,
+   "end": 7,
+   "summary": "Beginners bring a fresh view and see the broader picture",
+   "main": false,
+   "kind": "claim",
+   "proof": "",
+   "n": 4
+  },
+  {
+   "start": 7,
+   "end": 7,
+   "summary": "Creativity comes from drawing on many fields, not one deep specialty",
+   "main": false,
+   "kind": "lesson",
+   "proof": "the polymath example (line 7)",
+   "n": 5
+  }
+ ],
+ "chunks": [
+  {
+   "start": 1,
+   "end": 2,
+   "beat": 1,
+   "job": "stop the scroll",
+   "device": "something that sounds wrong",
+   "opens": 1,
+   "closes": 0,
+   "wonder": "wait, is it actually that easy to guess?"
+  },
+  {
+   "start": 3,
+   "end": 3,
+   "beat": 2,
+   "job": "build trust",
+   "device": "result with numbers",
+   "opens": 0,
+   "closes": 1,
+   "wonder": "why did almost nobody get it?"
+  },
+  {
+   "start": 4,
+   "end": 4,
+   "beat": 3,
+   "job": "teach",
+   "device": "simple example",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so what does this have to do with me?"
+  },
+  {
+   "start": 5,
+   "end": 5,
+   "beat": 3,
+   "job": "name the problem",
+   "device": "name the hidden cause",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so what does that mean for beginners?"
+  },
+  {
+   "start": 6,
+   "end": 6,
+   "beat": 4,
+   "job": "shift belief",
+   "device": "flip the cause",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "what is the beginner's advantage exactly?"
+  },
+  {
+   "start": 7,
+   "end": 7,
+   "beat": 6,
+   "job": "deliver the payoff",
+   "device": "one-line takeaway",
+   "opens": 0,
+   "closes": 0,
+   "wonder": ""
+  }
+ ],
+ "card": {
+  "format": "Breakdowns / Explainers",
+  "name": "Riddle to tool",
+  "use_when": "there's a mental model that changes how people see their own progress, and a tool or demo that makes it real.",
+  "needs": "a real riddle or example for the model, and something I built or use. Missing → drop the demo and end on the reframe.",
+  "length": "30 to 45 seconds, about 10 to 12 lines.",
+  "reframe": "beat 4, right after the lesson. Never line 1.",
+  "beats": [
+   {
+    "name": "Hook",
+    "job": "ask a question the viewer wants to guess, with a clear answer coming.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "Sharpest takes"
+    ],
+    "kind": "Hook",
+    "one": "Hook",
+    "was": "Riddle hook"
+   },
+   {
+    "name": "Payoff",
+    "job": "give the answer in one short line so the surprise lands.",
+    "optional": false,
+    "sources": [
+     "Numbers and proof"
+    ],
+    "kind": "Payoff",
+    "one": "Payoff",
+    "was": "Answer"
+   },
+   {
+    "name": "Name it",
+    "job": "say the hidden idea the riddle shows, in plain words and why it feels wrong.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "How it works"
+    ],
+    "kind": "Name it",
+    "one": "Name it",
+    "was": "Name the lesson"
+   },
+   {
+    "name": "Reframe",
+    "job": "turn the lesson to the viewer and tell them where they probably are.",
+    "optional": false,
+    "sources": [
+     "Who it's for",
+     "Beliefs"
+    ],
+    "kind": "Reframe",
+    "one": "Reframe",
+    "was": "This is you"
+   },
+   {
+    "name": "Steps",
+    "job": "one line on what they need to do to get the payoff.",
+    "optional": false,
+    "sources": [
+     "Sharpest takes"
+    ],
+    "kind": "Steps",
+    "one": "Step",
+    "was": "Next step"
+   },
+   {
+    "name": "Example",
+    "job": "show something made or used that puts the lesson to work, with proof of how fast.",
+    "optional": false,
+    "sources": [
+     "Product specifics",
+     "Moments"
+    ],
+    "kind": "Example",
+    "one": "Example",
+    "was": "Demo"
+   },
+   {
+    "name": "CTA",
+    "job": "optional. One comment keyword that gets them the tool.",
+    "optional": true,
+    "sources": [
+     "Product specifics"
+    ],
+    "kind": "CTA",
+    "one": "CTA"
+   }
+  ],
+  "flex": [
+   "Beat 5 can merge into beat 4.",
+   "Beat 7 can drop if there's nothing to give.",
+   "The demo can be a story or example instead of a tool."
+  ],
+  "category": "Educational",
+  "short": "Explainer",
+  "status": "Ready to try",
+  "source": "studio"
+ },
+ "said": [
+  "Could you guess a song from a friend's tapped rhythm for a million dollars?",
+  "Only 2.5% of listeners got it right in a 1990 Stanford study",
+  "Tappers hear the melody, but listeners only hear random taps, called the Curse of Knowledge",
+  "Beginners have a hidden advantage because experts can't see their view",
+  "",
+  "Beginners and polymaths are more creative because they draw on many sources",
+  ""
+ ],
+ "at": "2026-11-06 18:46",
+ "pv": 2
+}

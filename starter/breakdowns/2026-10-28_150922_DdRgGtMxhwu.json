@@ -1,0 +1,206 @@
+{
+ "v": 6,
+ "pv": 2,
+ "file": "2026-10-28_150922_DdRgGtMxhwu.txt",
+ "lines": [
+  "Carl Jung said the people who feel lost are closest to becoming unstoppable.",
+  "See, the hardest realization from working at corporate job was that the person I'd spent years trying to become no longer felt like me.",
+  "And it scared me because it meant that I was a failure.",
+  "I had this idea that if you don't get it right the first time, you're just automatically behind.",
+  "And it's because we live in a culture obsessed with certainty.",
+  "We idolize people with 10 year plans and polished identities while uncertainty is seen as a weakness.",
+  "But in reality, before every single meaningful transformation comes a period of feeling lost and frustrated.",
+  "Most people just assume growth feels good, but it doesn't.",
+  "It feels like a loss of control over your identity.",
+  "But it's where any meaningful change is found.",
+  "It allowed me to pursue my dream life and embracing it was the best thing I ever did."
+ ],
+ "spine": {
+  "big_idea": "Feeling lost is not failure, it is what real change feels like before it arrives.",
+  "before": "I'm lost, so I'm failing and falling behind",
+  "after": "Feeling lost means I'm probably about to change",
+  "viewer": "People who feel lost or stuck in a career or identity",
+  "format": "quote hook → fear admitted → cultural belief → flip: growth feels like loss → what embracing it gave me",
+  "hook_type": "bold claim",
+  "hook_promise": "Feeling lost is a good sign, and you'll hear why.",
+  "hook_paid": 7,
+  "ask": "",
+  "why": [
+   "The Jung quote flips what lost means before any story starts",
+   "The fear is told in plain words, so the viewer feels seen",
+   "Blaming culture lets the viewer drop the shame before the flip lands"
+  ]
+ },
+ "points": [
+  {
+   "start": 7,
+   "end": 9,
+   "summary": "Real change is always preceded by feeling lost and out of control",
+   "main": true,
+   "kind": "reframe",
+   "proof": "the corporate job identity crisis (lines 2-3)",
+   "n": 1
+  },
+  {
+   "start": 4,
+   "end": 4,
+   "summary": "Feeling lost makes people believe they have failed and fallen behind",
+   "main": false,
+   "kind": "problem",
+   "proof": "the author's fear at the corporate job (lines 2-3)",
+   "n": 2
+  },
+  {
+   "start": 5,
+   "end": 6,
+   "summary": "Our culture rewards certainty, so uncertainty looks like weakness",
+   "main": false,
+   "kind": "cause",
+   "proof": "people with 10 year plans and polished identities (line 6)",
+   "n": 3
+  },
+  {
+   "start": 10,
+   "end": 11,
+   "summary": "Embracing the lost period is where meaningful change is found",
+   "main": false,
+   "kind": "lesson",
+   "proof": "pursuing the dream life (line 11)",
+   "n": 4
+  }
+ ],
+ "chunks": [
+  {
+   "start": 1,
+   "end": 1,
+   "beat": 1,
+   "job": "stop the scroll",
+   "device": "something that sounds wrong",
+   "opens": 1,
+   "closes": 0,
+   "wonder": "wait, why would feeling lost be a good thing?"
+  },
+  {
+   "start": 2,
+   "end": 4,
+   "beat": 2,
+   "job": "make them feel seen",
+   "device": "confession",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "why do we think being lost means failing?"
+  },
+  {
+   "start": 5,
+   "end": 6,
+   "beat": 3,
+   "job": "name the problem",
+   "device": "name the hidden cause",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so what is actually true then?"
+  },
+  {
+   "start": 7,
+   "end": 9,
+   "beat": 4,
+   "job": "shift belief",
+   "device": "it's not x it's y",
+   "opens": 0,
+   "closes": 1,
+   "wonder": "so what did it get you?"
+  },
+  {
+   "start": 10,
+   "end": 11,
+   "beat": 5,
+   "job": "deliver the payoff",
+   "device": "callback to the hook",
+   "opens": 0,
+   "closes": 0,
+   "wonder": ""
+  }
+ ],
+ "card": {
+  "format": "Hero's Journey",
+  "name": "Lost before change",
+  "use_when": "I felt stuck or lost, and the feeling turned out to be the start of a change.",
+  "needs": "a real story with a clear low point. Missing → don't use this card.",
+  "length": "30 to 45 seconds, about 10 to 12 lines.",
+  "reframe": "beat 5. Say growth feels like loss, not progress. Never line 1.",
+  "beats": [
+   {
+    "name": "Hook",
+    "job": "Open with a quote or claim that says feeling lost is a good sign.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "Sharpest takes"
+    ],
+    "kind": "Hook",
+    "one": "Hook"
+   },
+   {
+    "name": "Struggle",
+    "job": "Say what felt wrong and the fear behind it, in plain words.",
+    "optional": false,
+    "sources": [
+     "Moments",
+     "Beliefs"
+    ],
+    "kind": "Struggle",
+    "one": "Struggle"
+   },
+   {
+    "name": "Why",
+    "job": "Name the cultural belief that made the struggle feel like failure.",
+    "optional": false,
+    "sources": [
+     "What other people say",
+     "Beliefs"
+    ],
+    "kind": "Why",
+    "one": "Why"
+   },
+   {
+    "name": "Reframe",
+    "job": "Flip it: before every real change comes a lost period, and growth does not feel good.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "Sharpest takes"
+    ],
+    "kind": "Reframe",
+    "one": "Reframe"
+   },
+   {
+    "name": "Payoff",
+    "job": "Say what embracing it gave you and why it mattered.",
+    "optional": false,
+    "sources": [
+     "Moments",
+     "Core idea"
+    ],
+    "kind": "Payoff",
+    "one": "Payoff"
+   }
+  ],
+  "flex": [
+   "Add a CTA at the end if there is one.",
+   "Beats 2 and 3 can merge.",
+   "The hook quote can be swapped for a personal claim."
+  ],
+  "category": "Storytelling",
+  "short": "Hero's journey",
+  "status": "Ready to try",
+  "source": "studio"
+ },
+ "said": [
+  "Jung says people who feel lost are close to becoming unstoppable",
+  "Becoming the person I planned no longer felt like me, and it scared me",
+  "Our culture worships certainty, so being unsure feels like failing",
+  "Before any real change comes a lost, frustrated stretch, and growth feels like losing control",
+  "Embracing the lost period let me pursue my dream life"
+ ],
+ "at": "2026-11-09 01:34"
+}

@@ -1,0 +1,280 @@
+{
+ "v": 6,
+ "file": "2026-11-06_153859_DfXyEXqJtX3.txt",
+ "lines": [
+  "If you're constantly saving Instagram videos thinking they're gonna be useful, but then never coming back to them, I think I just found your solution.",
+  "Follow along for this tutorial, cause I'm gonna take you from unorganized save posts to a full-on travel plan using Muse from Metta.",
+  "With Muse, you create your own personal AI agent.",
+  "I named mine Champ.",
+  "See, the thing is, I just moved to New York and my feed is full of restaurant recs.",
+  "But when it's actually time to pick a spot, like I just can't.",
+  "So I told Champ, I have all of these NYC restaurant recs in my saved Instagram posts, but I never use them.",
+  "Can you look at them and turn them into an interactive map?",
+  "All it took was one prompt and my Muse scanned through all of my saves and then got to work.",
+  "Look at what it built me.",
+  "This is a full interactive map.",
+  "It went through and actually found the restaurants the videos were talking about and the interface and ease of use is so beautiful.",
+  "It even compiled all the Instagram videos that mention this restaurant.",
+  "This is what I think is really cool.",
+  "You can use voice mode and say something like, okay, Champ, my girlfriend and I are looking for a chill spot for dinner on Saturday, around $30 a person, preferably near the East Village.",
+  "What do you got for me, according to my map?",
+  "From your saved map, three East Village spots fit that chill around $30 vibe.",
+  "Lil Frankie's on First Avenue is casual with great pizza and open late till four on Saturday.",
+  "Since it's Halloween weekend, it'll be lively so earlier might be calmer.",
+  "Let's go with Lil Frankie's.",
+  "Lil Frankie's is a great pick.",
+  "Want me to check anything else about it before Saturday?",
+  "Yeah, can you just go ahead and make the reservation?",
+  "I'll get your Lil Frankie's reservation for Saturday started.",
+  "Going through all those saves myself would have taken me three hours.",
+  "Download the Muse app from Meta and try it yourself."
+ ],
+ "spine": {
+  "big_idea": "Your saved Instagram videos can become a working travel plan if an AI agent does the sorting for you.",
+  "before": "I save all these videos and never use them",
+  "after": "My saves could actually turn into a plan I use",
+  "viewer": "People who save restaurant and travel reels but never revisit them",
+  "format": "pain callout → promise of tutorial → setup story → one prompt → result demo → voice demo → time saved → download ask",
+  "hook_type": "callout",
+  "hook_promise": "A fix for saved videos you never use again",
+  "hook_paid": 11,
+  "ask": "Download the Muse app and try it, trading on the time saved",
+  "why": [
+   "The hook names a habit the viewer has, so they check themselves",
+   "The live voice demo shows the map answering a real dinner question",
+   "The three hours number makes the payoff concrete before the ask"
+  ]
+ },
+ "points": [
+  {
+   "start": 1,
+   "end": 2,
+   "summary": "Saved videos only help if turned into something you can act on",
+   "main": true,
+   "kind": "claim",
+   "proof": "saves turned into an interactive NYC restaurant map and a booked dinner (lines 7-24)",
+   "n": 1
+  },
+  {
+   "start": 5,
+   "end": 7,
+   "summary": "Saving recs piles up unused, so choosing a spot feels impossible",
+   "main": false,
+   "kind": "problem",
+   "proof": "new to New York, feed full of restaurant recs (lines 5-7)",
+   "n": 2
+  },
+  {
+   "start": 8,
+   "end": 9,
+   "summary": "An AI agent can sort a whole pile of saves in one request",
+   "main": false,
+   "kind": "fix",
+   "proof": "one prompt scanned all saves and built a map (lines 9-13)",
+   "n": 3
+  },
+  {
+   "start": 15,
+   "end": 17,
+   "summary": "Once organized, you can ask for picks that fit your needs",
+   "main": false,
+   "kind": "fix",
+   "proof": "voice request for a $30 East Village dinner returned three spots (lines 15-19)",
+   "n": 4
+  },
+  {
+   "start": 25,
+   "end": 25,
+   "summary": "Letting an agent do it saves hours of manual sorting",
+   "main": false,
+   "kind": "claim",
+   "proof": "claims doing it by hand would take three hours (line 25)",
+   "n": 5
+  }
+ ],
+ "chunks": [
+  {
+   "start": 1,
+   "end": 1,
+   "beat": 1,
+   "job": "stop the scroll",
+   "device": "call out the viewer",
+   "opens": 1,
+   "closes": 0,
+   "wonder": "what's the solution?"
+  },
+  {
+   "start": 2,
+   "end": 2,
+   "beat": 3,
+   "job": "create curiosity",
+   "device": "open loop",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "what is Muse and how does it work?"
+  },
+  {
+   "start": 3,
+   "end": 4,
+   "beat": 4,
+   "job": "teach",
+   "device": "steps",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "okay, but what do I do with it?"
+  },
+  {
+   "start": 5,
+   "end": 6,
+   "beat": 2,
+   "job": "make them feel seen",
+   "device": "a moment they'll recognise",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so what did you ask it to do?"
+  },
+  {
+   "start": 7,
+   "end": 9,
+   "beat": 4,
+   "job": "teach",
+   "device": "steps",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "what did it build?"
+  },
+  {
+   "start": 10,
+   "end": 13,
+   "beat": 4,
+   "job": "build trust",
+   "device": "screen recording",
+   "opens": 0,
+   "closes": 1,
+   "wonder": "what else can it do?"
+  },
+  {
+   "start": 14,
+   "end": 24,
+   "beat": 4,
+   "job": "build trust",
+   "device": "real example",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "was it actually worth it?"
+  },
+  {
+   "start": 25,
+   "end": 25,
+   "beat": 5,
+   "job": "deliver the payoff",
+   "device": "result with numbers",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "how do I get it?"
+  },
+  {
+   "start": 26,
+   "end": 26,
+   "beat": 6,
+   "job": "get the action",
+   "device": "one clear ask",
+   "opens": 0,
+   "closes": 0,
+   "wonder": ""
+  }
+ ],
+ "card": {
+  "format": "Tutorial",
+  "name": "Quick steps",
+  "use_when": "3 to 5 short steps get someone to a clear result.",
+  "needs": "a process I actually use, ideally shown on screen. No real process → don't use this format.",
+  "length": "30 to 50 seconds, about 6 to 10 lines.",
+  "reframe": "beat 2, right after the promise. Never line 1.",
+  "beats": [
+   {
+    "name": "Hook",
+    "job": "what they'll make, and how fast or easy, in one line.",
+    "sources": [
+     "Core idea",
+     "Numbers and proof"
+    ],
+    "optional": false,
+    "kind": "Hook",
+    "one": "Hook",
+    "was": "Result promise"
+   },
+   {
+    "name": "Reframe",
+    "job": "optional. What's odd or annoying about the usual way.",
+    "sources": [
+     "Beliefs",
+     "Sharpest takes"
+    ],
+    "optional": true,
+    "kind": "Reframe",
+    "one": "Reframe",
+    "was": "The surprising part"
+   },
+   {
+    "name": "Open loop",
+    "job": "one short line that signals the steps.",
+    "sources": [],
+    "optional": false,
+    "kind": "Open loop",
+    "one": "Open loop",
+    "was": "\"Here's how\""
+   },
+   {
+    "name": "Steps",
+    "job": "3 to 5 steps, one line each, shown on screen. A small payoff every step.",
+    "sources": [
+     "How it works",
+     "Product specifics"
+    ],
+    "optional": false,
+    "kind": "Steps",
+    "one": "Step"
+   },
+   {
+    "name": "Payoff",
+    "job": "show what they end up with. The payoff, saved for last.",
+    "sources": [
+     "Numbers and proof"
+    ],
+    "optional": false,
+    "kind": "Payoff",
+    "one": "Payoff",
+    "was": "Output"
+   },
+   {
+    "name": "CTA",
+    "job": "\"that's it\", then one ask that helps them do it.",
+    "sources": [],
+    "optional": false,
+    "kind": "CTA",
+    "one": "CTA",
+    "was": "Ease line and CTA"
+   }
+  ],
+  "flex": [
+   "Beat 2 can drop for a plain how-to.",
+   "Beat 3 can sit at the end of beat 1.",
+   "Beats 5 and 6 can merge (\"And there's your content plan.\")."
+  ],
+  "category": "Educational",
+  "short": "Tutorial",
+  "status": "Ready to try",
+  "source": "index"
+ },
+ "said": [
+  "Saved Instagram videos you never revisit can become a plan",
+  "Usual saving leaves you with a pile you can't choose from",
+  "A personal agent in Muse will do the sorting",
+  "One prompt builds a map, then voice mode picks dinner and books it",
+  "Doing it by hand would have taken three hours",
+  "Download Muse and try it yourself"
+ ],
+ "at": "2026-11-06 18:46",
+ "pv": 2
+}

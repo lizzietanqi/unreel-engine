@@ -1,0 +1,202 @@
+{
+ "v": 6,
+ "file": "2026-10-28_150731_DdwyyK6p2A8.txt",
+ "lines": [
+  "A few days ago a legendary entrepreneur said we don't go to the comic book store but if the comics were in the newspaper we'd read them.",
+  "This quote genuinely shifted my perspective on how the next generation of millionaires is being made.",
+  "Because hear me out, Garfield was free in every newspaper, which is how millions came to recognize it.",
+  "They made their billions from selling t-shirts and mugs.",
+  "Like the genius Gen Z entrepreneurs are not building comic book stores, they are simply appearing in the newspaper.",
+  "The single greatest advantage is existing where all the attention lives, which is social media.",
+  "And then building a brand to leverage it, because the thing is nobody goes out of their way for a comic book store, but they won't skip it if it's in their hands."
+ ],
+ "spine": {
+  "big_idea": "Go where attention already lives and build a brand there, instead of asking people to come to you.",
+  "before": "I need people to seek out my brand or shop",
+  "after": "I should show up where people already scroll and monetize later",
+  "viewer": "Aspiring creators and entrepreneurs building a brand online",
+  "format": "surprising quote → famous example → what they sold → it's you → principle → brand ask",
+  "hook_type": "story",
+  "hook_promise": "A quote that changes how you see how new millionaires are made",
+  "hook_paid": 6,
+  "ask": "",
+  "why": [
+   "The comic store versus newspaper quote makes you reinterpret it before the lesson lands",
+   "Garfield gives a familiar example, so the abstract idea feels concrete",
+   "Selling mugs, not comics, shows where the real money is, a quiet twist"
+  ]
+ },
+ "points": [
+  {
+   "start": 6,
+   "end": 7,
+   "summary": "Show up where attention already lives, then build a brand on it",
+   "main": true,
+   "kind": "claim",
+   "proof": "Garfield free in newspapers, then billions from t-shirts and mugs (lines 3-4)",
+   "n": 1
+  },
+  {
+   "start": 1,
+   "end": 1,
+   "summary": "People won't seek out your content, but they'll consume what's put in front of them",
+   "main": false,
+   "kind": "cause",
+   "proof": "the entrepreneur's comic book store versus newspaper quote (line 1)",
+   "n": 2
+  },
+  {
+   "start": 6,
+   "end": 6,
+   "summary": "Social media is today's newspaper, where the attention is",
+   "main": false,
+   "kind": "reframe",
+   "proof": "Gen Z entrepreneurs appearing in the newspaper, not building stores (line 5)",
+   "n": 3
+  },
+  {
+   "start": 3,
+   "end": 4,
+   "summary": "Free distribution builds recognition, and the money comes from the brand",
+   "main": false,
+   "kind": "lesson",
+   "proof": "Garfield's free newspaper run led to t-shirt and mug billions (lines 3-4)",
+   "n": 4
+  }
+ ],
+ "chunks": [
+  {
+   "start": 1,
+   "end": 2,
+   "beat": 1,
+   "job": "stop the scroll",
+   "device": "something that sounds wrong",
+   "opens": 1,
+   "closes": 0,
+   "wonder": "what does comics have to do with making millionaires?"
+  },
+  {
+   "start": 3,
+   "end": 3,
+   "beat": 2,
+   "job": "build trust",
+   "device": "real example",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so how did Garfield actually make money?"
+  },
+  {
+   "start": 4,
+   "end": 4,
+   "beat": 3,
+   "job": "shift belief",
+   "device": "it's not x it's y",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so what does this mean for people today?"
+  },
+  {
+   "start": 5,
+   "end": 6,
+   "beat": 4,
+   "job": "deliver the payoff",
+   "device": "one-line takeaway",
+   "opens": 0,
+   "closes": 1,
+   "wonder": "okay, so what do I do with that?"
+  },
+  {
+   "start": 7,
+   "end": 7,
+   "beat": 5,
+   "job": "teach",
+   "device": "one rule",
+   "opens": 0,
+   "closes": 0,
+   "wonder": ""
+  }
+ ],
+ "card": {
+  "format": "Breakdowns / Explainers",
+  "name": "Attention first",
+  "use_when": "a known example shows people no longer come to you, and I can say where attention is now.",
+  "needs": "a real example people recognise. Missing → don't use this card.",
+  "length": "20 to 40 seconds, about 6 to 8 lines.",
+  "reframe": "beat 3. The quote or example flips what people assume. Never line 1.",
+  "beats": [
+   {
+    "name": "Hook",
+    "job": "Open with a surprising quote or claim that sets up a flip in how people see success.",
+    "optional": false,
+    "sources": [
+     "Sharpest takes",
+     "What other people say"
+    ],
+    "kind": "Hook",
+    "one": "Hook"
+   },
+   {
+    "name": "Example",
+    "job": "Give a familiar example that makes the quote concrete and easy to picture.",
+    "optional": false,
+    "sources": [
+     "Moments",
+     "Numbers and proof"
+    ],
+    "kind": "Example",
+    "one": "Example"
+   },
+   {
+    "name": "Reframe",
+    "job": "Show how the money really came from something other than the obvious product.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "Beliefs"
+    ],
+    "kind": "Reframe",
+    "one": "Reframe"
+   },
+   {
+    "name": "Why",
+    "job": "Apply the example to today's builders and say where attention lives now.",
+    "optional": false,
+    "sources": [
+     "How it works",
+     "Core idea"
+    ],
+    "kind": "Why",
+    "one": "Why"
+   },
+   {
+    "name": "Payoff",
+    "job": "End on the one rule: go where people are, then build a brand to use it.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "Sharpest takes"
+    ],
+    "kind": "Payoff",
+    "one": "Payoff"
+   }
+  ],
+  "flex": [
+   "Beat 2 can merge into the hook.",
+   "Add a CTA if there is something to offer.",
+   "Swap Garfield for any example people know."
+  ],
+  "category": "Educational",
+  "short": "Explainer",
+  "status": "Ready to try",
+  "source": "new"
+ },
+ "said": [
+  "A famous entrepreneur says people read comics in newspapers, not in comic stores",
+  "Garfield spread free through newspapers and reached millions",
+  "The billions came from selling t-shirts and mugs, not comics",
+  "Gen Z founders appear on social media instead of opening stores",
+  "Exist where attention is, then build a brand; nobody seeks out a store"
+ ],
+ "at": "2026-11-06 18:46",
+ "pv": 2
+}

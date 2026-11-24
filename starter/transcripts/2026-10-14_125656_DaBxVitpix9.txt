@@ -1,0 +1,31 @@
+Link: https://www.instagram.com/reel/DaBxVitpix9/
+Author: Matt Bitter
+Language: en
+
+TRANSCRIPT
+If a pond has a single lily pad that doubles every day and it takes 30 days to cover the whole pond, on what day is the pond half covered?
+
+It's half covered on day 29.
+
+One of the most important, but least intuitive concepts to the human brain is compounding, because compounding looks like almost nothing for a long time until everything happens all at once.
+
+If you're watching this, I bet you're closer to day 29 than you think.
+
+And all you need to do is have the consistency to see day 30.
+
+I love tracking my habits, so I wanted to make an app that shows the exponential curve in real time when you log an activity.
+
+To let cursors agents go to work using their new composer model, and it did not disappoint.
+
+This is what I built when I was away from my computer.
+
+Took me like 10 minutes.
+
+Allows you to track habits and see the compounding effects.
+
+If you want the software I used to make it, comment, fire.
+
+CAPTION
+such an important concept
+
+#cursor #cursorcreator

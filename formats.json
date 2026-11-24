@@ -1,0 +1,1416 @@
+{
+ "_about": "The short-form formats and their cards. Every post's format card belongs to one of these. Cards whose beats aren't written yet fill in as Studio breaks posts down (those go in cards.json). Edit this file to add your own.",
+ "categories": [
+  "Educational",
+  "Storytelling"
+ ],
+ "angle_sections": [
+  "Who it's for",
+  "Core idea",
+  "Beliefs",
+  "What other people say",
+  "Sharpest takes",
+  "How it works",
+  "Numbers and proof",
+  "Moments",
+  "Product specifics"
+ ],
+ "formats": [
+  {
+   "name": "Problem Solution",
+   "short": "Problem solution",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "A pain people know, and a fix I use",
+   "cards": [
+    {
+     "name": "Problem Solution",
+     "use_when": "there's a pain people know, and a fix I actually use.",
+     "needs": "a fix I've really used, in steps. No real fix → don't use this format.",
+     "length": "30 to 60 seconds, about 8 to 12 lines.",
+     "reframe": "beat 3. Never line 1.",
+     "beats": [
+      {
+       "name": "Hook",
+       "job": "the pain and a promise of a fix, in one line.",
+       "sources": [
+        "Who it's for",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Name the fix",
+       "job": "a short name, so people have something to wait for.",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Why the usual way fails",
+       "job": "1 or 2 lines. The reframe lands here.",
+       "sources": [
+        "Beliefs",
+        "Sharpest takes"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Steps",
+       "job": "2 to 4 plain steps, clearly ordered. Each one a small payoff.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Why it works",
+       "job": "the simple reason. This is the \"oh\" moment.",
+       "sources": [
+        "Core idea",
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Proof",
+       "job": "a result, or who else it worked for. [missing] if none.",
+       "sources": [
+        "Numbers and proof",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. One ask that helps them do the steps.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beats 5 and 6 can merge.",
+      "Beat 3 can be one line.",
+      "If you can show the result on screen, show it right after the hook and drop beat 6."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tutorial",
+   "short": "Tutorial",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "A result I can teach people to make, in steps",
+   "cards": [
+    {
+     "name": "Quick steps",
+     "use_when": "3 to 5 short steps get someone to a clear result.",
+     "needs": "a process I actually use, ideally shown on screen. No real process → don't use this format.",
+     "length": "30 to 50 seconds, about 6 to 10 lines.",
+     "reframe": "beat 2, right after the promise. Never line 1.",
+     "beats": [
+      {
+       "name": "Result promise",
+       "job": "what they'll make, and how fast or easy, in one line.",
+       "sources": [
+        "Core idea",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The surprising part",
+       "job": "optional. What's odd or annoying about the usual way.",
+       "sources": [
+        "Beliefs",
+        "Sharpest takes"
+       ],
+       "optional": true
+      },
+      {
+       "name": "\"Here's how\"",
+       "job": "one short line that signals the steps.",
+       "sources": [],
+       "optional": false
+      },
+      {
+       "name": "Steps",
+       "job": "3 to 5 steps, one line each, shown on screen. A small payoff every step.",
+       "sources": [
+        "How it works",
+        "Product specifics"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Output",
+       "job": "show what they end up with. The payoff, saved for last.",
+       "sources": [
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Ease line and CTA",
+       "job": "\"that's it\", then one ask that helps them do it.",
+       "sources": [],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "Beat 2 can drop for a plain how-to.",
+      "Beat 3 can sit at the end of beat 1.",
+      "Beats 5 and 6 can merge (\"And there's your content plan.\")."
+     ]
+    },
+    {
+     "name": "Live build",
+     "use_when": "I'm building or running something on screen, and seeing it work is the payoff.",
+     "needs": "a real build I can screen record start to finish. No footage → use Card A.",
+     "length": "2 to 3 minutes, as long as the build takes.",
+     "reframe": "only after the final reveal, if at all. Never line 1.",
+     "beats": [
+      {
+       "name": "Big promise",
+       "job": "what you can build, and how fast. Sets up \"can it really?\"",
+       "sources": [
+        "Core idea",
+        "Product specifics"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Start live",
+       "job": "the first action on screen, right away.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Progress",
+       "job": "wait, then show what came out, with a real reaction.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Go bigger",
+       "job": "the next step, bigger than the last.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Final reveal",
+       "job": "the finished thing working, on screen. The payoff.",
+       "sources": [
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Ease line",
+       "job": "one line that says it was easy, or what's next.",
+       "sources": [],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "Beat 1 can be a stunt (\"just wiped this entire MacBook Pro\").",
+      "Repeat beats 3 and 4 as many times as the build needs.",
+      "An honest flaw is fine. It keeps it real.",
+      "Beat 6 can tease the next part instead."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Common Trap / Mistake",
+   "short": "Common trap",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "A habit or piece of advice that quietly costs people",
+   "cards": [
+    {
+     "name": "Common Trap / Mistake",
+     "use_when": "popular advice or a habit sounds right but quietly costs people.",
+     "needs": "a fix I actually use. An \"I used to\" moment helps but isn't required. No real fix → don't use this format.",
+     "length": "20 to 60 seconds, about 5 to 12 lines. Can be as short as 3 lines.",
+     "reframe": "beat 1. The trap, named bluntly, is the reframe.",
+     "beats": [
+      {
+       "name": "Warning hook",
+       "job": "the trap, named bluntly in line 1, said to \"you\", so people check if they do it.",
+       "sources": [
+        "Sharpest takes",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Open loop",
+       "job": "admit it sounds odd or backwards, and say the fix is coming.",
+       "sources": [
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The cost",
+       "job": "what the trap does to you, in plain \"you\" terms. An \"I used to\" moment fits here.",
+       "sources": [
+        "Moments",
+        "Who it's for",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The fix, named",
+       "job": "what to do instead, with a short 2 to 3 word name.",
+       "sources": [
+        "Core idea",
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Proof",
+       "job": "a named person, a number or a result. [missing] if none.",
+       "sources": [
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "How",
+       "job": "1 to 3 plain steps, usable today.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Takeaway and CTA",
+       "job": "one line someone could repeat to a friend. Then the ask, optional.",
+       "sources": [],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "Beats 1 and 4 can sit back to back (\"You don't need X. You just need Y.\").",
+      "If the hook already has a number, beat 5 can drop.",
+      "Quick version: only beats 1, 3 and 4."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Breakdowns / Explainers",
+   "short": "Explainer",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "Why something really happens, how a way of thinking works, or a shift with named examples",
+   "cards": [
+    {
+     "name": "How it works",
+     "use_when": "one thing works in a way most people don't expect, and I can explain the cause.",
+     "needs": "a real example, or a comparison of my own. Missing → don't use this format.",
+     "length": "30 to 75 seconds, about 7 to 12 lines.",
+     "reframe": "beat 3, as \"what people assume vs what's really going on\".",
+     "beats": [
+      {
+       "name": "Hook",
+       "job": "a surprising fact, number or thing on screen. Never a vague opinion.",
+       "sources": [
+        "Numbers and proof",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Open loop",
+       "job": "one line that says the answer is coming (\"all because of this tiny detail\").",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Name it",
+       "job": "what people assume, then a short name for what's really going on.",
+       "sources": [
+        "Beliefs",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "How it works",
+       "job": "the cause in plain steps. Each line answers the one before.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Proof",
+       "job": "a real example or number, so it's believable.",
+       "sources": [
+        "Numbers and proof",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Limit and so what",
+       "job": "where it stops, then what to do. One line each.",
+       "sources": [
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. One soft ask, or a question to the comments.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beats 1 and 2 can be one line.",
+      "If the hook already proves it, drop beat 5.",
+      "Beat 7 can drop."
+     ]
+    },
+    {
+     "name": "Trend or prediction",
+     "use_when": "I'm calling a shift that's happening now, and I have named examples to back it.",
+     "needs": "2 or 3 real names or numbers. \"There's data\" with none shown doesn't count.",
+     "length": "45 to 75 seconds, about 8 to 12 lines.",
+     "reframe": "beat 1. A prediction is already an arguable claim.",
+     "beats": [
+      {
+       "name": "Hook",
+       "job": "the shift or prediction as a bold claim.",
+       "sources": [
+        "Sharpest takes",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The flip",
+       "job": "what replaces it, then \"here's why\".",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Old rule",
+       "job": "what used to be true, so the change feels real.",
+       "sources": [
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Why it's changing",
+       "job": "the cause in plain words.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Proof",
+       "job": "2 or 3 named examples or numbers, each one making it more real.",
+       "sources": [
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The bigger part",
+       "job": "the more surprising point, saved for late.",
+       "sources": [
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "So what",
+       "job": "what to do, said softly. CTA optional.",
+       "sources": [],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "Beat 6 can drop.",
+      "Beat 7 can be one line with no ask (\"I'm not saying you need to do it. I'm saying it's something you should consider.\")."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Listicle",
+   "short": "Listicle",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "A few tips or options that sit side by side",
+   "cards": [
+    {
+     "name": "Listicle",
+     "use_when": "I have 3 to 5 tips or options that sit side by side.",
+     "needs": "a real reason or example for each item. Missing → cut the item, or don't use this format.",
+     "length": "45 to 75 seconds, about 8 to 14 lines.",
+     "reframe": "beat 5, the wrap. Or beat 4, if the last item is the unpopular one. The number is the opener, not the reframe.",
+     "beats": [
+      {
+       "name": "Promise",
+       "job": "the number, what it is, and a twist, in line 1 (\"5 boring habits that will change your life\").",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Item 1",
+       "job": "a strong one. Short name, then one line of why or a demo.",
+       "sources": [
+        "How it works",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Middle items",
+       "job": "short name and one line each. Keeps the count moving.",
+       "sources": [
+        "How it works",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Last item",
+       "job": "the best or most surprising one, signaled as last (\"And last but not least\").",
+       "sources": [
+        "Sharpest takes",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Wrap",
+       "job": "one line that ties them together, so there's one thing to remember.",
+       "sources": [
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. One ask.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Strongest item first or last, never in the middle.",
+      "The CTA can go just before the last item, so people still stay for it.",
+      "An item can be a template plus a filled example, or a demo.",
+      "Beat 5 can drop. End on the last item."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "A vs B",
+   "short": "A vs B",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "Two or three things to compare",
+   "cards": [
+    {
+     "name": "Side by side",
+     "use_when": "my point is a contrast between two ways of doing something, or two kinds of people, and they can be compared on the same few things.",
+     "needs": "one real example, number or story that shows the difference, mine or someone else's. Missing → don't use this format.",
+     "length": "30 to 60 seconds, about 8 to 12 lines.",
+     "reframe": "beat 5, the verdict. Never line 1, or the winner is given away.",
+     "beats": [
+      {
+       "name": "Name A and B",
+       "job": "name both, or ask which one wins. Stay neutral, so they pick a side.",
+       "sources": [
+        "Who it's for",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Why it matters",
+       "job": "one line on why the difference is worth knowing.",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Contrasts",
+       "job": "3 to 5 lines, each on the same thing. \"A does X. B does Y.\" Same rhythm every time.",
+       "sources": [
+        "How it works",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The catch",
+       "job": "the part most people miss, backed by a real example, number or story.",
+       "sources": [
+        "Moments",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Verdict",
+       "job": "which one wins, or why both lose.",
+       "sources": [
+        "Sharpest takes",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. One short ask.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Three options work too (\"Reels get followers, carousels get engagement. Stories get leads.\").",
+      "A bad, good, perfect ladder works too.",
+      "Beats 2 and 4 can drop under 30 seconds, but then it reads like a list.",
+      "No \"how to be the winner\" steps. End on the verdict."
+     ]
+    },
+    {
+     "name": "Story build",
+     "use_when": "each option has a history or a problem behind it, and each one goes a step further than the last.",
+     "needs": "a real fact, date or number for each option. Missing → use Card A.",
+     "length": "1 to 3 minutes.",
+     "reframe": "beat 5, the verdict. Never line 1.",
+     "beats": [
+      {
+       "name": "Setup",
+       "job": "say how many things, and that each solves a different problem.",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "First one",
+       "job": "its problem and its fix, with a specific date or number. Earns trust early.",
+       "sources": [
+        "Numbers and proof",
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Next one",
+       "job": "same pattern, plus what it really is under the surface.",
+       "sources": [
+        "How it works",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Last one",
+       "job": "the most surprising one, pushed furthest. Give it a name.",
+       "sources": [
+        "Sharpest takes"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Verdict",
+       "job": "it's not about which is best, it's about what you value. One short line.",
+       "sources": [
+        "Beliefs"
+       ],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "Two items work if the second clearly goes further.",
+      "No CTA needed. The verdict is the ending."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Scenarios",
+   "short": "Scenario",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "A \"what if\", or a bold claim people will doubt plus a plan",
+   "cards": [
+    {
+     "name": "What-if walkthrough",
+     "use_when": "a \"what if\" makes the point vivid, and the answer breaks the obvious guess.",
+     "needs": "a real twist. No twist → it's an explainer, use Breakdowns instead.",
+     "length": "30 to 60 seconds, about 7 to 12 lines.",
+     "reframe": "beat 1, only if the reframe is a real what-if people want answered. Otherwise beat 6.",
+     "beats": [
+      {
+       "name": "The what-if",
+       "job": "the question, in one line.",
+       "sources": [
+        "Sharpest takes",
+        "Who it's for"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The guesses",
+       "job": "2 or 3 things people would guess, or \"it's impossible\".",
+       "sources": [
+        "What other people say",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Walk through it",
+       "job": "what happens, step by step. Each step makes them ask \"then what?\"",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The twist",
+       "job": "the thing that breaks the obvious guess.",
+       "sources": [
+        "How it works",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The answer",
+       "job": "the payoff, saved for last.",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Tie-back",
+       "job": "optional. One line linking it to real life, or a soft CTA.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beat 2 can be the common belief instead of guesses (\"it's literally impossible\").",
+      "Beat 6 can drop. End on the answer.",
+      "Specific numbers make it real (\"about 21 minutes\", \"3.6 million\").",
+      "No lesson after the answer."
+     ]
+    },
+    {
+     "name": "Bold claim or idea",
+     "use_when": "my point is a claim or an idea people will doubt, and I have a plan to back it.",
+     "needs": "a real plan with specifics. Missing → don't use this card.",
+     "length": "45 to 90 seconds.",
+     "reframe": "beat 3, where you answer the doubt.",
+     "beats": [
+      {
+       "name": "Bold claim",
+       "job": "the claim in one line, with a number or timeframe if you have one.",
+       "sources": [
+        "Sharpest takes",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Hear me out",
+       "job": "a short pattern or setup that makes it sound less crazy.",
+       "sources": [
+        "Numbers and proof",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The doubt",
+       "job": "say their doubt out loud, then answer it with 2 or 3 reasons.",
+       "sources": [
+        "What other people say",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "How I'd do it",
+       "job": "the plan in clear steps, with specifics. The payoff.",
+       "sources": [
+        "How it works",
+        "Product specifics"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Last line",
+       "job": "a short punchy line, or one ask that hands them the plan.",
+       "sources": [],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "Beat 2 can drop. Go straight to the plan.",
+      "If the claim needs trust, beat 2 can be your background. Keep it humble.",
+      "Beat 5 can be a CTA if it gives them the full method."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Q&A",
+   "short": "Q&A",
+   "category": "Educational",
+   "status": "Ready to try",
+   "idea_has": "A real question someone asked me",
+   "cards": [
+    {
+     "name": "Answer first",
+     "use_when": "there's a question people actually ask, and my answer is short, blunt and not the popular one.",
+     "needs": "a real question someone asked me, in comments, DMs or a conversation. Missing → use Breakdowns instead.",
+     "length": "30 to 45 seconds, about 6 to 10 lines.",
+     "reframe": "beat 5, the last line. Not a summary.",
+     "beats": [
+      {
+       "name": "The question",
+       "job": "the real question, in their words, with specifics.",
+       "sources": [
+        "What other people say",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Short answer",
+       "job": "one blunt line.",
+       "sources": [
+        "Sharpest takes",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The reason",
+       "job": "why, in plain words, plus a real example if you have one.",
+       "sources": [
+        "Core idea",
+        "Moments",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The \"but if\"",
+       "job": "who the answer changes for. Makes it feel fair.",
+       "sources": [
+        "Who it's for"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Sharp last line",
+       "job": "the answer again as one short line they could quote.",
+       "sources": [
+        "Sharpest takes"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. Most samples have none.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beat 4 can drop.",
+      "Beat 3 can turn the answer on the viewer (\"it's not your talent, it's your presence\")."
+     ]
+    },
+    {
+     "name": "Work it out",
+     "use_when": "the answer needs numbers or steps, and it's more fun to watch me get there.",
+     "needs": "a real question, plus the real numbers or steps to work it out. Missing → use Card A.",
+     "length": "1 to 2 minutes.",
+     "reframe": "beat 5, the follow-up answer.",
+     "beats": [
+      {
+       "name": "The question",
+       "job": "the real question, with the numbers in it.",
+       "sources": [
+        "What other people say",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Let's work it out",
+       "job": "one line that says you'll work it out now.",
+       "sources": [],
+       "optional": false
+      },
+      {
+       "name": "The working",
+       "job": "step by step, with real numbers. Each line builds toward the answer.",
+       "sources": [
+        "How it works",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The answer",
+       "job": "the first answer, said plainly.",
+       "sources": [
+        "Core idea"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The follow-up",
+       "job": "the next question people ask, and the new answer.",
+       "sources": [
+        "What other people say",
+        "Sharpest takes"
+       ],
+       "optional": false
+      }
+     ],
+     "flex": [
+      "The working can be a source you read from, with a promise up front.",
+      "End on the thing you promised, or a personal reveal.",
+      "No CTA needed."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Hero's Journey",
+   "short": "Hero's journey",
+   "category": "Storytelling",
+   "status": "Ready to try",
+   "idea_has": "A time I went from stuck to better",
+   "cards": [
+    {
+     "name": "Classic climb",
+     "use_when": "I was stuck, I tried the usual way, then one change got me a result I can put a number on.",
+     "needs": "a real story with a clear low point. Missing → don't use this format.",
+     "length": "30 seconds to 1:30, about 8 to 20 lines. Up to 2:30 only when the personal stakes are very strong.",
+     "reframe": "beat 6, after the result. Never line 1, or you give away the ending.",
+     "beats": [
+      {
+       "name": "Low point",
+       "job": "where I was stuck, with a time, a number or a person who doubted me.",
+       "sources": [
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Stakes",
+       "job": "why it mattered to me.",
+       "sources": [
+        "Moments",
+        "Who it's for"
+       ],
+       "optional": false
+      },
+      {
+       "name": "What I tried that didn't work",
+       "job": "one line on the effort that failed.",
+       "sources": [
+        "Moments",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The turn",
+       "job": "\"Until...\" the one specific thing I changed.",
+       "sources": [
+        "How it works",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Result",
+       "job": "what changed, with a number.",
+       "sources": [
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Reframe",
+       "job": "one line on where most people go wrong.",
+       "sources": [
+        "Sharpest takes",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. One ask tied to the turn.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beat 3 can be one line.",
+      "Beat 2 can merge into beat 1 if line 1 already says why it matters.",
+      "Drop beat 7 if there's nothing useful to give.",
+      "For a long story, bring back an object from the start near the end."
+     ]
+    },
+    {
+     "name": "Result first",
+     "use_when": "the finished thing is the hook, and the effort behind it was hidden or hard.",
+     "needs": "a real result people can see, and the real effort behind it. Missing → don't use this card.",
+     "length": "45 seconds to 1:30.",
+     "reframe": "beat 7, after the full payoff, only if there's a real one.",
+     "beats": [
+      {
+       "name": "Result first",
+       "job": "say or show the finished thing in line 1.",
+       "sources": [
+        "Numbers and proof",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Quick tease",
+       "job": "a short glimpse of the reaction, then cut away.",
+       "sources": [
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The hidden effort",
+       "job": "how long and how hard, with a time.",
+       "sources": [
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The obstacle",
+       "job": "what blocked the easy way.",
+       "sources": [
+        "What other people say",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "What I did instead",
+       "job": "the workaround or method, plain.",
+       "sources": [
+        "How it works"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Full payoff",
+       "job": "the full reveal, held to the end. Pays off the tease.",
+       "sources": [
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Reframe",
+       "job": "optional. One line after the payoff.",
+       "sources": [
+        "Sharpest takes"
+       ],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beats 4 and 5 can merge.",
+      "A side story only fits if it's short and makes them more curious.",
+      "No CTA, or one soft line."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Personal Learning",
+   "short": "Personal learning",
+   "category": "Storytelling",
+   "status": "Ready to try",
+   "idea_has": "Something that surprised me",
+   "cards": [
+    {
+     "name": "Expected vs surprise",
+     "use_when": "something I did taught me something people wouldn't expect. I went in thinking one thing, and something else turned out to be true.",
+     "needs": "a real experience. Missing → don't use this format.",
+     "length": "45 seconds to 1:30, about 8 to 18 lines.",
+     "reframe": "beat 6, right before the CTA. Never line 1, or you give away the surprise.",
+     "beats": [
+      {
+       "name": "The situation",
+       "job": "what I was doing, with a number or time, and a hint it didn't go as planned.",
+       "sources": [
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "What I expected",
+       "job": "what I thought would happen, or what everyone says.",
+       "sources": [
+        "Beliefs",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The surprise",
+       "job": "\"But...\" the thing I didn't see coming.",
+       "sources": [
+        "Core idea",
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "What it was like",
+       "job": "one concrete detail or result. Shown, not just stated.",
+       "sources": [
+        "Moments",
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "What it changed",
+       "job": "what I see or do differently now. About me, not advice to you.",
+       "sources": [
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Reframe",
+       "job": "one line on where most people have it wrong.",
+       "sources": [
+        "Sharpest takes"
+       ],
+       "optional": false
+      },
+      {
+       "name": "CTA",
+       "job": "optional. One soft ask or a series sign-off.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Beats 4 and 5 can merge.",
+      "Beat 6 can drop if beat 5 already lands it.",
+      "Drop beat 7 if it feels tacked on.",
+      "For a test or experiment, show the plain version first and the surprising one last."
+     ]
+    },
+    {
+     "name": "Lessons from a goal",
+     "use_when": "I set a goal, hit it (or almost), and it taught me things I didn't expect.",
+     "needs": "a real goal, with start and current numbers. Missing → use Card A.",
+     "length": "1 to 1:30.",
+     "reframe": "beat 6, after the lessons.",
+     "beats": [
+      {
+       "name": "The goal",
+       "job": "what I set out to do, and when.",
+       "sources": [
+        "Moments"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Before and now",
+       "job": "where I started and where I am, with numbers.",
+       "sources": [
+        "Numbers and proof"
+       ],
+       "optional": false
+      },
+      {
+       "name": "The promise",
+       "job": "how many lessons, and that they're not what you'd guess.",
+       "sources": [],
+       "optional": false
+      },
+      {
+       "name": "Lesson 1",
+       "job": "the first surprise, with a real detail from my day.",
+       "sources": [
+        "Moments",
+        "Beliefs"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Lesson 2",
+       "job": "the bigger surprise, with numbers. What I pictured vs what it's really like.",
+       "sources": [
+        "Numbers and proof",
+        "What other people say"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Reframe",
+       "job": "one line on what the goal really gave me.",
+       "sources": [
+        "Sharpest takes"
+       ],
+       "optional": false
+      },
+      {
+       "name": "Sign-off",
+       "job": "optional. A series sign-off or one soft ask.",
+       "sources": [],
+       "optional": true
+      }
+     ],
+     "flex": [
+      "Two lessons is the most. Save the bigger one for last.",
+      "Beat 7 can drop."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Case Studies",
+   "short": "Case study",
+   "category": "Educational",
+   "status": "Parked",
+   "idea_has": "One real result, mine, a user's or someone else's",
+   "cards": [
+    {
+     "name": "Case Studies",
+     "use_when": "I can break down one real result, mine, a user's or someone else's.",
+     "needs": "a real, sourced example with a number."
+    }
+   ]
+  },
+  {
+   "name": "Ranking / Tier List",
+   "short": "Ranking",
+   "category": "Educational",
+   "status": "Parked",
+   "idea_has": "Several options I want to judge",
+   "cards": [
+    {
+     "name": "Ranking / Tier List",
+     "use_when": "I'm comparing several options fast.",
+     "needs": "honest opinions on options I've actually used."
+    }
+   ]
+  },
+  {
+   "name": "Levels",
+   "short": "Levels",
+   "category": "Educational",
+   "status": "Parked",
+   "idea_has": "A progression from beginner to advanced",
+   "cards": [
+    {
+     "name": "Levels",
+     "use_when": "there's a progression from beginner to advanced, and most people are stuck low.",
+     "needs": "a concrete example for each level."
+    }
+   ]
+  },
+  {
+   "name": "Interview Clips",
+   "short": "Interview clip",
+   "category": "Educational",
+   "status": "Parked",
+   "idea_has": "Footage of a conversation",
+   "cards": [
+    {
+     "name": "Interview Clips",
+     "use_when": "I have a recorded conversation with a hot take in it.",
+     "needs": "footage with a second person."
+    }
+   ]
+  },
+  {
+   "name": "Reaction",
+   "short": "Reaction",
+   "category": "Educational",
+   "status": "Parked",
+   "idea_has": "A clip worth responding to",
+   "cards": [
+    {
+     "name": "Explain it",
+     "use_when": "there's a clip people misread, and I know what's really going on.",
+     "needs": "a base clip I can stitch or duet."
+    },
+    {
+     "name": "Comedy",
+     "use_when": "the clip looks bad at first, but it has a twist I can react to.",
+     "needs": "a base clip with a real twist."
+    }
+   ]
+  },
+  {
+   "name": "Skit / Humor",
+   "short": "Skit",
+   "category": "Storytelling",
+   "status": "Parked",
+   "idea_has": "A funny or relatable situation I can act out",
+   "cards": [
+    {
+     "name": "Comedy",
+     "use_when": "a character gets something wrong in a way people know.",
+     "needs": "acting, often a second person."
+    },
+    {
+     "name": "Heartfelt",
+     "use_when": "an acted scene is a way into an honest message I want to say to camera.",
+     "needs": "acting, plus a real message I mean."
+    }
+   ]
+  },
+  {
+   "name": "About Me",
+   "short": "About me",
+   "category": "Storytelling",
+   "status": "Parked",
+   "idea_has": "My background or origin story",
+   "cards": [
+    {
+     "name": "Origin story",
+     "use_when": "I'm introducing myself, telling how I got from where I started to where I am now.",
+     "needs": "my real story, with real moments, numbers and at least one low point."
+    },
+    {
+     "name": "Everything I tried",
+     "use_when": "there were lots of attempts before one big win, and I can number them.",
+     "needs": "a real list of attempts, with real losses and numbers."
+    }
+   ]
+  },
+  {
+   "name": "Personal Update",
+   "short": "Personal update",
+   "category": "Storytelling",
+   "status": "Parked",
+   "idea_has": "News: a launch, a move, a milestone",
+   "cards": [
+    {
+     "name": "News as punchline",
+     "use_when": "something happened that changed things for me, and the setup makes the news hit harder.",
+     "needs": "real news."
+    },
+    {
+     "name": "Big day plus lessons",
+     "use_when": "today is a big day, and it's making me think about a few truths.",
+     "needs": "a real big day."
+    },
+    {
+     "name": "Launch",
+     "use_when": "we're launching something.",
+     "needs": "a real launch and a real credibility number."
+    }
+   ]
+  },
+  {
+   "name": "Day In The Life",
+   "short": "Day in the life",
+   "category": "Storytelling",
+   "status": "Parked",
+   "idea_has": "A day that's different from what people picture",
+   "cards": [
+    {
+     "name": "Day In The Life",
+     "use_when": "my day is different from what people picture for someone like me.",
+     "needs": "footage of a real day."
+    }
+   ]
+  },
+  {
+   "name": "Episodic Series",
+   "short": "Series",
+   "category": "Storytelling",
+   "status": "Parked",
+   "idea_has": "A repeatable show idea",
+   "cards": [
+    {
+     "name": "Test series",
+     "use_when": "a repeatable show where each episode tests one thing and ends with a verdict or score.",
+     "needs": "a series idea I can keep going."
+    },
+    {
+     "name": "Tutorial series",
+     "use_when": "a repeatable show where each episode teaches or makes one thing, with no verdict.",
+     "needs": "a series idea with enough episodes in it."
+    }
+   ]
+  },
+  {
+   "name": "Challenge",
+   "short": "Challenge",
+   "category": "Storytelling",
+   "status": "Parked",
+   "idea_has": "A goal I can chase on camera",
+   "cards": [
+    {
+     "name": "Challenge",
+     "use_when": "I'm chasing a goal on camera.",
+     "needs": "actually doing the challenge, with a clear number to hit."
+    }
+   ]
+  }
+ ],
+ "close_calls": [
+  "Problem Solution vs Tutorial: lead with the pain, it's Problem Solution. Lead with the thing they'll make, it's Tutorial.",
+  "Common Trap vs Problem Solution: the mistake is the interesting part, it's Common Trap. The fix is, it's Problem Solution.",
+  "Breakdowns vs Case Studies: a general \"why\" is a Breakdown. One real result, broken down, is a Case Study.",
+  "Breakdowns vs Scenarios: explaining how something works, or teaching a way of thinking or a mental model, is a Breakdown, even with a personal example. Scenarios only when the post is built on a \"what if\" or on a claim people will doubt plus a plan.",
+  "Breakdowns vs Tutorial: teaching a way of thinking is a Breakdown. Steps that end in something made or done is a Tutorial.",
+  "Listicle vs Ranking vs Levels: tips side by side is a Listicle. Judging options is a Ranking. Each one better than the last is Levels.",
+  "Hero's Journey vs Personal Learning: a climb from stuck to better is Hero's Journey. Something I didn't expect is Personal Learning.",
+  "Q&A vs Interview Clips: I'm answering on my own, it's Q&A. Someone else is in the footage, it's Interview Clips."
+ ]
+}

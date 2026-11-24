@@ -1,0 +1,262 @@
+{
+ "v": 6,
+ "file": "2026-10-14_125656_DaBxVitpix9.txt",
+ "lines": [
+  "If a pond has a single lily pad that doubles every day and it takes 30 days to cover the whole pond, on what day is the pond half covered?",
+  "It's half covered on day 29.",
+  "One of the most important, but least intuitive concepts to the human brain is compounding, because compounding looks like almost nothing for a long time until everything happens all at once.",
+  "If you're watching this, I bet you're closer to day 29 than you think.",
+  "And all you need to do is have the consistency to see day 30.",
+  "I love tracking my habits, so I wanted to make an app that shows the exponential curve in real time when you log an activity.",
+  "To let cursors agents go to work using their new composer model, and it did not disappoint.",
+  "This is what I built when I was away from my computer.",
+  "Took me like 10 minutes.",
+  "Allows you to track habits and see the compounding effects.",
+  "If you want the software I used to make it, comment, fire."
+ ],
+ "spine": {
+  "big_idea": "Compounding looks like nothing for a long time, so you're probably closer to your breakthrough than you think.",
+  "before": "I'm putting in effort and not getting anywhere",
+  "after": "I'm probably closer than I think, so I should keep going",
+  "viewer": "People working on habits or goals who feel progress is too slow",
+  "format": "riddle → answer → hidden lesson → this is you → what to do → demo → comment for the tool",
+  "hook_type": "question",
+  "hook_promise": "A riddle you can guess, with the answer coming right away",
+  "hook_paid": 2,
+  "ask": "Comment 'fire' to get the software; trades on the speed of the demo",
+  "why": [
+   "The riddle makes you guess before it teaches the lesson",
+   "It turns the lesson onto the viewer: you are near day 29",
+   "The demo is fast and makes the concept feel doable today"
+  ]
+ },
+ "points": [
+  {
+   "start": 3,
+   "end": 3,
+   "summary": "Compounding looks like nothing for a long time, then everything happens",
+   "main": true,
+   "kind": "claim",
+   "proof": "the lily pad riddle (lines 1-2)",
+   "n": 1
+  },
+  {
+   "start": 4,
+   "end": 4,
+   "summary": "You are probably closer to your breakthrough than you think",
+   "main": false,
+   "kind": "reframe",
+   "proof": "the day 29 answer (line 2)",
+   "n": 2
+  },
+  {
+   "start": 5,
+   "end": 5,
+   "summary": "Consistency is all you need to reach day 30",
+   "main": false,
+   "kind": "lesson",
+   "proof": "",
+   "n": 3
+  },
+  {
+   "start": 6,
+   "end": 10,
+   "summary": "An app can show the compounding curve as you log habits",
+   "main": false,
+   "kind": "tip",
+   "proof": "the app built in 10 minutes (lines 8-9)",
+   "n": 4
+  }
+ ],
+ "chunks": [
+  {
+   "start": 1,
+   "end": 1,
+   "beat": 1,
+   "job": "stop the scroll",
+   "device": "something that sounds wrong",
+   "opens": 1,
+   "closes": 0,
+   "wonder": "hmm, what day is it?"
+  },
+  {
+   "start": 2,
+   "end": 2,
+   "beat": 2,
+   "job": "deliver the payoff",
+   "device": "one-line takeaway",
+   "opens": 2,
+   "closes": 1,
+   "wonder": "wait, why day 29, what does that mean?"
+  },
+  {
+   "start": 3,
+   "end": 3,
+   "beat": 3,
+   "job": "shift belief",
+   "device": "belief vs truth gap",
+   "opens": 0,
+   "closes": 2,
+   "wonder": "okay, so how does this apply to me?"
+  },
+  {
+   "start": 4,
+   "end": 4,
+   "beat": 4,
+   "job": "make them feel seen",
+   "device": "call out the viewer",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "so what do I do about it?"
+  },
+  {
+   "start": 5,
+   "end": 5,
+   "beat": 5,
+   "job": "teach",
+   "device": "one rule",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "how can I actually see this?"
+  },
+  {
+   "start": 6,
+   "end": 9,
+   "beat": 6,
+   "job": "build trust",
+   "device": "show the work",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "what does the app do?"
+  },
+  {
+   "start": 10,
+   "end": 10,
+   "beat": 6,
+   "job": "deliver the payoff",
+   "device": "result shown",
+   "opens": 0,
+   "closes": 0,
+   "wonder": "can I get it too?"
+  },
+  {
+   "start": 11,
+   "end": 11,
+   "beat": 7,
+   "job": "get the action",
+   "device": "comment keyword",
+   "opens": 0,
+   "closes": 0,
+   "wonder": ""
+  }
+ ],
+ "card": {
+  "format": "Breakdowns / Explainers",
+  "name": "Riddle to tool",
+  "use_when": "there's a mental model that changes how people see their own progress, and a tool or demo that makes it real.",
+  "needs": "a real riddle or example for the model, and something I built or use. Missing → drop the demo and end on the reframe.",
+  "length": "30 to 45 seconds, about 10 to 12 lines.",
+  "reframe": "beat 4, right after the lesson. Never line 1.",
+  "beats": [
+   {
+    "name": "Hook",
+    "job": "ask a question the viewer wants to guess, with a clear answer coming.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "Sharpest takes"
+    ],
+    "kind": "Hook",
+    "one": "Hook",
+    "was": "Riddle hook"
+   },
+   {
+    "name": "Payoff",
+    "job": "give the answer in one short line so the surprise lands.",
+    "optional": false,
+    "sources": [
+     "Numbers and proof"
+    ],
+    "kind": "Payoff",
+    "one": "Payoff",
+    "was": "Answer"
+   },
+   {
+    "name": "Name it",
+    "job": "say the hidden idea the riddle shows, in plain words and why it feels wrong.",
+    "optional": false,
+    "sources": [
+     "Core idea",
+     "How it works"
+    ],
+    "kind": "Name it",
+    "one": "Name it",
+    "was": "Name the lesson"
+   },
+   {
+    "name": "Reframe",
+    "job": "turn the lesson to the viewer and tell them where they probably are.",
+    "optional": false,
+    "sources": [
+     "Who it's for",
+     "Beliefs"
+    ],
+    "kind": "Reframe",
+    "one": "Reframe",
+    "was": "This is you"
+   },
+   {
+    "name": "Steps",
+    "job": "one line on what they need to do to get the payoff.",
+    "optional": false,
+    "sources": [
+     "Sharpest takes"
+    ],
+    "kind": "Steps",
+    "one": "Step",
+    "was": "Next step"
+   },
+   {
+    "name": "Example",
+    "job": "show something made or used that puts the lesson to work, with proof of how fast.",
+    "optional": false,
+    "sources": [
+     "Product specifics",
+     "Moments"
+    ],
+    "kind": "Example",
+    "one": "Example",
+    "was": "Demo"
+   },
+   {
+    "name": "CTA",
+    "job": "optional. One comment keyword that gets them the tool.",
+    "optional": true,
+    "sources": [
+     "Product specifics"
+    ],
+    "kind": "CTA",
+    "one": "CTA"
+   }
+  ],
+  "flex": [
+   "Beat 5 can merge into beat 4.",
+   "Beat 7 can drop if there's nothing to give.",
+   "The demo can be a story or example instead of a tool."
+  ],
+  "category": "Educational",
+  "short": "Explainer",
+  "status": "Ready to try",
+  "source": "studio"
+ },
+ "said": [
+  "A lily pad doubles daily and covers a pond in 30 days: when is it half covered?",
+  "The pond is half covered on day 29",
+  "Compounding looks like almost nothing for ages, then everything happens at once",
+  "You are probably closer to day 29 than you think",
+  "You only need the consistency to reach day 30",
+  "A habit app built in 10 minutes shows the compounding curve live",
+  "Comment 'fire' to get the software used to build it"
+ ],
+ "at": "2026-11-06 18:45"
+}

@@ -1,0 +1,244 @@
+{
+ "Breakdowns / Explainers": [
+  {
+   "name": "Riddle to tool",
+   "use_when": "there's a mental model that changes how people see their own progress, and a tool or demo that makes it real.",
+   "needs": "a real riddle or example for the model, and something I built or use. Missing → drop the demo and end on the reframe.",
+   "length": "30 to 45 seconds, about 10 to 12 lines.",
+   "reframe": "beat 4, right after the lesson. Never line 1.",
+   "beats": [
+    {
+     "name": "Hook",
+     "job": "ask a question the viewer wants to guess, with a clear answer coming.",
+     "optional": false,
+     "sources": [
+      "Core idea",
+      "Sharpest takes"
+     ],
+     "kind": "Hook",
+     "one": "Hook",
+     "was": "Riddle hook"
+    },
+    {
+     "name": "Payoff",
+     "job": "give the answer in one short line so the surprise lands.",
+     "optional": false,
+     "sources": [
+      "Numbers and proof"
+     ],
+     "kind": "Payoff",
+     "one": "Payoff",
+     "was": "Answer"
+    },
+    {
+     "name": "Name it",
+     "job": "say the hidden idea the riddle shows, in plain words and why it feels wrong.",
+     "optional": false,
+     "sources": [
+      "Core idea",
+      "How it works"
+     ],
+     "kind": "Name it",
+     "one": "Name it",
+     "was": "Name the lesson"
+    },
+    {
+     "name": "Reframe",
+     "job": "turn the lesson to the viewer and tell them where they probably are.",
+     "optional": false,
+     "sources": [
+      "Who it's for",
+      "Beliefs"
+     ],
+     "kind": "Reframe",
+     "one": "Reframe",
+     "was": "This is you"
+    },
+    {
+     "name": "Steps",
+     "job": "one line on what they need to do to get the payoff.",
+     "optional": false,
+     "sources": [
+      "Sharpest takes"
+     ],
+     "kind": "Steps",
+     "one": "Step",
+     "was": "Next step"
+    },
+    {
+     "name": "Example",
+     "job": "show something made or used that puts the lesson to work, with proof of how fast.",
+     "optional": false,
+     "sources": [
+      "Product specifics",
+      "Moments"
+     ],
+     "kind": "Example",
+     "one": "Example",
+     "was": "Demo"
+    },
+    {
+     "name": "CTA",
+     "job": "optional. One comment keyword that gets them the tool.",
+     "optional": true,
+     "sources": [
+      "Product specifics"
+     ],
+     "kind": "CTA",
+     "one": "CTA"
+    }
+   ],
+   "flex": [
+    "Beat 5 can merge into beat 4.",
+    "Beat 7 can drop if there's nothing to give.",
+    "The demo can be a story or example instead of a tool."
+   ],
+   "first_post": "2026-10-14_125656_DaBxVitpix9.txt",
+   "at": "2026-10-15 02:01"
+  },
+  {
+   "name": "Attention first",
+   "use_when": "a known example shows people no longer come to you, and I can say where attention is now.",
+   "needs": "a real example people recognise. Missing → don't use this card.",
+   "length": "20 to 40 seconds, about 6 to 8 lines.",
+   "reframe": "beat 3. The quote or example flips what people assume. Never line 1.",
+   "beats": [
+    {
+     "name": "Hook",
+     "job": "Open with a surprising quote or claim that sets up a flip in how people see success.",
+     "optional": false,
+     "sources": [
+      "Sharpest takes",
+      "What other people say"
+     ],
+     "kind": "Hook",
+     "one": "Hook"
+    },
+    {
+     "name": "Example",
+     "job": "Give a familiar example that makes the quote concrete and easy to picture.",
+     "optional": false,
+     "sources": [
+      "Moments",
+      "Numbers and proof"
+     ],
+     "kind": "Example",
+     "one": "Example"
+    },
+    {
+     "name": "Reframe",
+     "job": "Show how the money really came from something other than the obvious product.",
+     "optional": false,
+     "sources": [
+      "Core idea",
+      "Beliefs"
+     ],
+     "kind": "Reframe",
+     "one": "Reframe"
+    },
+    {
+     "name": "Why",
+     "job": "Apply the example to today's builders and say where attention lives now.",
+     "optional": false,
+     "sources": [
+      "How it works",
+      "Core idea"
+     ],
+     "kind": "Why",
+     "one": "Why"
+    },
+    {
+     "name": "Payoff",
+     "job": "End on the one rule: go where people are, then build a brand to use it.",
+     "optional": false,
+     "sources": [
+      "Core idea",
+      "Sharpest takes"
+     ],
+     "kind": "Payoff",
+     "one": "Payoff"
+    }
+   ],
+   "flex": [
+    "Beat 2 can merge into the hook.",
+    "Add a CTA if there is something to offer.",
+    "Swap Garfield for any example people know."
+   ],
+   "first_post": "2026-10-28_150731_DdwyyK6p2A8.txt",
+   "at": "2026-11-06 18:46"
+  }
+ ],
+ "Hero's Journey": [
+  {
+   "name": "Lost before change",
+   "use_when": "I felt stuck or lost, and the feeling turned out to be the start of a change.",
+   "needs": "a real story with a clear low point. Missing → don't use this card.",
+   "length": "30 to 45 seconds, about 10 to 12 lines.",
+   "reframe": "beat 5. Say growth feels like loss, not progress. Never line 1.",
+   "beats": [
+    {
+     "name": "Hook",
+     "job": "Open with a quote or claim that says feeling lost is a good sign.",
+     "optional": false,
+     "sources": [
+      "Core idea",
+      "Sharpest takes"
+     ],
+     "kind": "Hook",
+     "one": "Hook"
+    },
+    {
+     "name": "Struggle",
+     "job": "Say what felt wrong and the fear behind it, in plain words.",
+     "optional": false,
+     "sources": [
+      "Moments",
+      "Beliefs"
+     ],
+     "kind": "Struggle",
+     "one": "Struggle"
+    },
+    {
+     "name": "Why",
+     "job": "Name the cultural belief that made the struggle feel like failure.",
+     "optional": false,
+     "sources": [
+      "What other people say",
+      "Beliefs"
+     ],
+     "kind": "Why",
+     "one": "Why"
+    },
+    {
+     "name": "Reframe",
+     "job": "Flip it: before every real change comes a lost period, and growth does not feel good.",
+     "optional": false,
+     "sources": [
+      "Core idea",
+      "Sharpest takes"
+     ],
+     "kind": "Reframe",
+     "one": "Reframe"
+    },
+    {
+     "name": "Payoff",
+     "job": "Say what embracing it gave you and why it mattered.",
+     "optional": false,
+     "sources": [
+      "Moments",
+      "Core idea"
+     ],
+     "kind": "Payoff",
+     "one": "Payoff"
+    }
+   ],
+   "flex": [
+    "Add a CTA at the end if there is one.",
+    "Beats 2 and 3 can merge.",
+    "The hook quote can be swapped for a personal claim."
+   ],
+   "first_post": "2026-10-28_150922_DdRgGtMxhwu.txt",
+   "at": "2026-11-06 18:38"
+  }
+ ]
+}
